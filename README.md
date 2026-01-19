@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,vue,bootstrap,tailwind,sass,nodejs,express,nestjs,python,django,php,laravel,csharp,dotnet,mongodb,mysql,postgresql,sqlserver,oracle,android,java,cpp,docker,aws,googlecloud,git,linux,postman,figma,xd,illustrator,photoshop,blender,matlab" width="40" height="40" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,vue,bootstrap,tailwind,sass,nodejs,express,nestjs,python,django,php,laravel,csharp,dotnet,mongodb,mysql,postgresql,sqlserver,oracle,android,java,cpp,docker,aws,googlecloud,git,linux,postman,figma,xd,illustrator,photoshop,blender,matlab" alt="Tech Stack"/>
 </p>
 
 ---
