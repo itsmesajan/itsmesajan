@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sajan Maharjan 👨‍💻</h1>
-  <p>A passionate frontend developer from Nepal 🇳🇵</p>
+  <h3 align="center">Turning designs into interactive web experiences 🌐</h3>
 
   <img src="https://komarev.com/ghpvc/?username=itsmesajan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
